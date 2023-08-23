@@ -22,7 +22,7 @@ https://github.com/WEDALARISEWMEM/discord-token-login/assets/97955568/7c9fa5d7-4
  # iletişim veya soru için
 
  - [Discord Profilim](https://discord.com/users/1108498175653859358)
- - [Discord adresimiz TRCLAN](https://discord.gg/trclan)
+[![Discord Banner](https://api.weblutions.com/discord/invite/trclan/)](https://discord.gg/trclan)
 
  # instagram
 - [instagram hesabım](https://www.instagram.com/kron1k.rat/)
