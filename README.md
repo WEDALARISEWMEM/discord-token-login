@@ -21,7 +21,7 @@ https://github.com/WEDALARISEWMEM/discord-token-login/assets/97955568/7c9fa5d7-4
 
  # iletişim veya soru için
 
-- [![Discord Banner](https://api.weblutions.com/discord/invite/trclan/)](https://discord.gg/trclan)
+- [![Discord Banner](https://api.weblutions.com/discord/invite/stclan/)](https://discord.gg/stclan)
 
  - [Discord Profile](https://discord.com/users/1108498175653859358)
  # instagram
