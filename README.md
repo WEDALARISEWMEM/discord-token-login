@@ -7,7 +7,7 @@ CODER BY KRONİK.
 
   
  # Kurulum & İçerik 
-1- tek yapmanız gereken videodaki gibi programı açmak ve tokeni girmektir token geçersiz içe giriş başarısız hatası verecektir iyi kullanımlar.
+1- tek yapmanız gereken videodaki gibi programı açmak ve tokeni girmektir token geçersiz ise giriş başarısız hatası verecektir iyi kullanımlar.
 
   
 
